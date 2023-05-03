@@ -82,5 +82,5 @@ body{
    }
    @media(max-min:460px){
     .text_area_control{
-        grid-column: 1/span 1;
+        grid-column: 1/span 1;}
    }
